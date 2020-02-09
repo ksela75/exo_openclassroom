@@ -11,3 +11,6 @@ Mais aussi depuis ma machine !
 Je refais une modif depuis GitHub
 
 J'effectue une modif en local
+
+Je fais une modif sur GitHub pour tester la synchro avec ma modif en local
+
