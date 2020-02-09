@@ -5,3 +5,5 @@ Test GitHub pour le cours sur Openclassroom
 La démo se passe bien !
 
 Et maintenant on modifie en direct depuis GitHub
+
+Mais aussi depuis ma machine !
