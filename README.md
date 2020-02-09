@@ -9,3 +9,5 @@ Et maintenant on modifie en direct depuis GitHub
 Mais aussi depuis ma machine !
 
 Je refais une modif depuis GitHub
+
+J'effectue une modif en local
